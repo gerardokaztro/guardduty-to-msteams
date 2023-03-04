@@ -1,4 +1,6 @@
-![Figura 2: Visualización del hallazgo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gy45hpmrqo30gzpakehn.png)
+# Cómo visualizar los hallazgos de Amazon GuardDuty en MS Teams
+
+![Visualización del hallazgo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gy45hpmrqo30gzpakehn.png)
 
 En este blog post te mostraré como enviar los hallazgos de Amazon GuardDuty a un canal de mensajería como Microsoft Teams en un formato de tarjeta que contenga información relevante del hallazgo para que el equipo de seguridad pueda tomar acción inmediata.
 
